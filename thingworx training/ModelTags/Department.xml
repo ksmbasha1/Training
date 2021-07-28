@@ -13,7 +13,7 @@
          documentationContent=""
          homeMashup=""
          isDynamic="false"
-         lastModifiedDate="2021-07-28T06:27:47.385Z"
+         lastModifiedDate="2021-07-28T06:40:23.925Z"
          name="Department"
          projectName="thingworx training"
          tags="">
@@ -34,6 +34,9 @@
             <VocabularyTerm
              description=""
              name="Finance"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Maintenance"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
