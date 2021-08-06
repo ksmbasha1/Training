@@ -34,6 +34,9 @@
             <VocabularyTerm
              description=""
              name="dearest"></VocabularyTerm>
+         <VocabularyTerm
+             description=""
+             name="near"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
